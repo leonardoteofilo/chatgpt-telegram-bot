@@ -19,11 +19,11 @@ em PNG com fundo transparente ou JPG, e renderize novamente.
 |---|---|---|
 | 0–3 s | "Seu timbre soa igual ao de todo mundo?" | Gancho com pergunta de dor nos primeiros segundos |
 | 3–6 s | "Pedal de prateleira é feito para milhões..." | Contraste problema × solução, construção de tensão |
-| 6–10 s | Revelação da marca, origem cearense | Autenticidade e identidade regional |
+| 6–10 s | Revelação da marca: de Quixadá para Fortaleza | Autenticidade e identidade regional |
 | 10–22 s | Catálogo com 8 pedais | Demonstração de amplitude, ritmo sincronizado à música |
 | 22–26 s | "Feito à mão, peça por peça" | Valor artesanal e exclusividade |
 | 26–30 s | Rock de sábado → louvor de domingo | Segmentação dupla, com troca de trilha e de luz |
-| 30–37 s | "Seu som. Sua assinatura." + @targinocustomp | Identidade, escassez honesta e chamada direta à ação |
+| 30–37 s | "Seu som. Sua assinatura." + @targinocustompedals | Identidade, escassez honesta e chamada direta à ação |
 
 Textos grandes e legíveis sem áudio, barra de progresso e cortes no tempo da música
 favorecem a retenção, principal critério de distribuição dos vídeos curtos.

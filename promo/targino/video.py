@@ -286,7 +286,7 @@ def cena_marca(base, t):
     d.line((W / 2 - 300 * p2, 1050, W / 2 + 300 * p2, 1050), fill=CREME + (200,), width=3)
     texto(base, 'Pedais de efeito artesanais\npara guitarra e baixo', W / 2, 1170, 52, T_MARCA + 1.0, t,
           caminho=REG)
-    texto(base, 'Feitos à mão em Guaraciaba do Norte · Ceará', W / 2, 1330, 38, T_MARCA + 1.6, t,
+    texto(base, 'De Quixadá para Fortaleza · feitos à mão no Ceará', W / 2, 1330, 38, T_MARCA + 1.6, t,
           cor=CINZA, caminho=REG)
 
 
@@ -381,12 +381,12 @@ def cena_cta(base, t):
     p = ease_out(prog(lt, 2.2, 0.4))
     if p > 0:
         pulso = 1 + 0.035 * max(0.0, math.cos(2 * math.pi * (lt - 2.2) * 2))
-        bw, bh = 760, 150
+        bw, bh = 900, 150
         botao = Image.new('RGBA', (bw + 40, bh + 40), (0, 0, 0, 0))
         db = ImageDraw.Draw(botao)
         db.rounded_rectangle((20, 20, 20 + bw, 20 + bh), radius=75, fill=AMBAR + (255,))
-        f = fonte(BOLD, 60)
-        txt = '@targinocustomp'
+        f = fonte(BOLD, 56)
+        txt = '@targinocustompedals'
         db.text((20 + bw / 2 - f.getlength(txt) / 2, 20 + bh / 2 - 38), txt, font=f, fill=(20, 16, 14))
         colar(base, botao, W / 2, 1290, p, pulso * (0.9 + 0.1 * p))
         texto(base, 'Mande uma mensagem no Instagram', W / 2, 1430, 48, T_CTA + 2.5, t, caminho=REG)
